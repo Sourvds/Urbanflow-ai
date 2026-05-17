@@ -1,6 +1,12 @@
 # UrbanFlow AI
 
+[![Live Demo](https://img.shields.io/badge/demo-localhost-00d4ff)](http://localhost:5173)
+[![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](http://localhost:8000/docs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 AI-powered Smart City Resource Optimization Platform — production-grade full-stack application with ML forecasting, anomaly detection, optimization engines, and a futuristic command-center UI.
+
+**Repository:** [github.com/Sourvds/Urbanflow-ai](https://github.com/Sourvds/Urbanflow-ai)
 
 ## Features
 
