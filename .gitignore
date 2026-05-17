@@ -1,0 +1,53 @@
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+frontend/dist/
+.npm
+*.log
+
+# Database (regenerate via seed script)
+*.db
+*.sqlite
+*.sqlite3
+
+# Docker volumes
+postgres_data/
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build & cache
+*.egg
+dist/
+build/
+.cache/
+
+# Dev-only helpers (local fixes)
+fix.ps1
+fix_tags.py
+
+# Cursor / local tooling
+.cursor/
+agent-transcripts/
